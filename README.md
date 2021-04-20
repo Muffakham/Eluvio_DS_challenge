@@ -11,4 +11,6 @@
     - xgboost classifier
     - Logistic regression
     - gradient boosting classifier
+
+*Note: the dataset was stored in a personal drive google drive and any files stored are also stored in the same drive.*
   
